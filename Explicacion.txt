@@ -1,0 +1,8 @@
+Básicamente la resolución ha consistido en añadir únicamente los estados en el patrón state implementado, he añadido 4 estados, dependiendo de si el menú está abierto o cerrado y de si estamos en la pantalla principal o en la de los detalles.
+Tras añadir los estados he creado los métodos de cada estado y he añadido en los demás métodos los cambios, para mover estados de uno a otro y viceversa.
+Pero resulta que tengo un problema y es que tras implementar todo, llama a moveState y le paso el estado correctamente pero no lo hace y la verdad que tras darle muchas vueltas
+al código no consigo ver dónde está el problema, otro problema es que 2 de los compañeros a los que le propuse hacer el trabajo no querían "malgastar" tiempo, entonces he decidido hacerlo yo
+solo y bueno, aunque no he conseguido la solución definitiva creo que he conseguido implementar el patrón state aunque con ese fallo que no se dónde se encuentra.
+
+Integrantes del grupo:
+Jesús Rosa Bilbao
