@@ -5,3 +5,7 @@ Esta prácticamente entero bien y creo haber implementado correctamente el patrón
 
 Integrantes del grupo:
 Jesús Rosa Bilbao
+
+El enlace al repositorio GitHub con la solución es:
+
+https://github.com/JesusRosaB/Seminario-DSS
