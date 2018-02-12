@@ -33,7 +33,7 @@ buttonClickedDetail() {
         .style.transform = "translateX(0%)";
     document.getElementById('main')
         .style.transform = "translateX(-100%)";
-    //this.showHideSideClicked();
+    this.showHideSideClicked();
     }
 
 
@@ -42,6 +42,7 @@ closeClicked() {
         .style.transform = "translateX(100%)";
     document.getElementById('main')
         .style.transform = "translateX(0%)";
+    this.showHideSideClicked();
 }
 
 }
